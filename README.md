@@ -1,3 +1,13 @@
+# Discord Kullanıcı ID ile Sunucu Patlatma Sistemi
+Sistem Tamamen PowerShell üzerinden yazılmıştır.
+
+Her Hangi Bir Extra Program İndirmenize Gerek Yok.
+
+Talimatları Takip Ederek Rahatlıkla Kullanabilirsiniz.
+
+![image](https://cdn.discordapp.com/attachments/1365254831333314652/1365266724953522257/Baslksz-1.png?ex=680caf38&is=680b5db8&hm=e0584fe36a5330965602f23ad4626ec9af47992659b005859c327308b6337339&)
+
+
 # Öncelikle başlat Menüsünden PowerShelli Yönetici olarak Çalıştırınız.
 Ardından Sırası ile Komutları Giriniz
 
